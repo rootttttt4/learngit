@@ -1,5 +1,5 @@
 
 
-![image-20250609112840761](D:\learngit\images\image-20250609112840761.png)
+![image-20250609112840761](\images\image-20250609112840761.png)
 
 
